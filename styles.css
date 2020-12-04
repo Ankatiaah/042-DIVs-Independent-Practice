@@ -1,0 +1,28 @@
+img {
+    height: 200px;
+}
+
+
+.header{
+    background-color:lightblue;
+    padding:10px;
+    border: 10px outset red;
+}
+
+.troy{
+    background-color:lightgreen;
+    padding:15px;
+    border: 10px ridge ivory;
+}
+
+.richard{
+    background-color:silver;
+    padding:17px;
+    border: 17px groove violet;
+}
+
+.duchess{
+    background-color:#dea5a4;
+    padding:19px;
+    border: 19px double #00FFFF;
+}
